@@ -24,8 +24,8 @@ namespace WhatToWatchNext
         static void Main(string[] args)
         {
             // ---------- Task 1: Variables and String Interpolation ----------
-            string userName = "Saphal Katuwal";
-            int luckyNumber = 7;
+            string userName = "Sankalpa Singh Chauhan";
+            int luckyNumber = 10;
             Console.WriteLine($"Hello, {userName}! Your lucky number is {luckyNumber}.");
             Console.WriteLine();
 
